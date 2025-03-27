@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript and SCSS  
 - 💞️ I’m looking to collaborate on exciting web projects  
 - 📫 How to reach me: suelowilmer27@gmail.com  
+- 🌐 My personal website: [wsdev.online](wsdev.online)
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I’m fun to be with and love to travel!  
 
