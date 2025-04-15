@@ -1,14 +1,3 @@
-# 👋 Hi, I’m Wilmer Suelo  
-- 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning JavaScript and SCSS  
-- 💞️ I’m looking to collaborate on exciting web projects  
-- 📫 How to reach me: suelowilmer27@gmail.com  
-- 🌐 My personal website: https://wsdev.online/
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I’m fun to be with and love to travel!  
-
-
-
 <h1 align="center">Hi there, I'm Wilmer 👋</h1>
 
 <p align="center">
@@ -33,15 +22,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suelowilmer&show_icons=true&theme=radical&hide_border=true" alt="Wilmer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wilmer27-ai&show_icons=true&theme=radical&hide_border=true" alt="Wilmer's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suelowilmer&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wilmer27-ai&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suelowilmer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmer27-ai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
