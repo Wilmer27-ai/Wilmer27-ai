@@ -15,7 +15,7 @@
 - 🎓 Information Technology student majoring in Software Technology  
 - 🌐 Love creating web-based systems, front-end and learning backend  
 - ⚡ Fun to be with and loves to travel!  
-- 💬 Ask me about HTML, CSS, JavaScript, PHP, and SCSS  
+- 💬 Ask me about HTML, CSS, JavaScript, PHP, and SCSS 
 - 🌐 Personal Website: [wsdev.online](https://wsdev.online)
 
 ---
